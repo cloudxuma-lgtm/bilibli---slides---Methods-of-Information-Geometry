@@ -1,6 +1,6 @@
 # bilibli---slides---Methods-of-Information-Geometry
 
-主包对应的时评链接：https://www.bilibili.com/video/BV1xd5g61EbL/?vd_source=0f8193516bdd757e75a7a241254a25aa
+主包对应的b站视频链接：https://www.bilibili.com/video/BV1xd5g61EbL/?vd_source=0f8193516bdd757e75a7a241254a25aa
 zip为tex格式的书，pdf为原格式，后续slides请等待主包长大了，学会了信息几何后再上传。
 
 # 《信息几何方法》——书籍摘要与目录
